@@ -12,12 +12,13 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun0320&theme=react-dark&hide_border=true&area=true)
 
 ## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarun0320&theme=dark)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun0320&theme=react-dark&hide_border=true&area=true)
 
 ## GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=tarun0320&show_icons=true&theme=dark)
