@@ -17,3 +17,6 @@
 
 ## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarun0320&theme=dark)
+
+##GitHub Trophies
+![trophies](https://github-profile-trophy.vercel.app/?username=tarun0320&theme=darkhub&no-frame=true&column=6)
