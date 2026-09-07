@@ -3,7 +3,7 @@
 </div>
 
 ```console
-tarun@ ~ % neofetch
+tarun@ 
 
    ██▄                  tarun
     ▀██▄                ─────────────────────────────────────────────
@@ -48,7 +48,6 @@ Building full-stack and AI-powered projects — from multi-agent RAG systems to 
 
 [![linkedin](https://img.shields.io/badge/linkedin-tarun--bhadauria-0a0a0a?style=flat-square&logo=linkedin&logoColor=ff2d6f)](https://www.linkedin.com/in/tarun-bhadauria-038b17391/)
 [![leetcode](https://img.shields.io/badge/leetcode-tarun0320-0a0a0a?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/tarun0320)
-[![github](https://img.shields.io/badge/github-tarun0320-0a0a0a?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/tarun0320)
 [![email](https://img.shields.io/badge/email-tarunsb24-0a0a0a?style=flat-square&logo=gmail&logoColor=d14836)](mailto:tarunsb24@gmail.com)
 
 
