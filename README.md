@@ -1,62 +1,59 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=TARUN;full-stack+%C2%B7+AI%2FML+%C2%B7+agentic+systems+%C2%B7+always+shipping)](https://git.io/typing-svg)
-
+  <img src="https://github.com/chhhee10/chhhee10/blob/main/header.svg" width="100%" alt="chetan raghuvanshi — agent infra · observability · solana"/>
 </div>
 
+```console
+chetan@blr ~ % neofetch
+
+   ██▄                  chetan @ bengaluru
+    ▀██▄                ─────────────────────────────────────────────
+      ▀██▄              role      founding engineer · FailproofAI
+      ▄██▀              edu       B.E. CS (IoT · Cyber · Blockchain) — Sir MVIT '27 · CGPA 9.01
+    ▄██▀                day       policy daemon for AI coding agents — block / sanitize / instruct
+   ██▀                  night     AgentEye — open-source agent observability on ClickHouse
+                        weekend   deliberately cursed agent builds, for science and blog content
+                        motto     ship it, watch it, block it before it rm -rf's prod
 ```
-tarun@kanpur ~ % neofetch
-```
+
+## `$ work`
+
+**[FailproofAI](https://befailproof.ai)** — Shipped runtime enforcement into the tool-call lifecycle of **6 agent CLIs** (Hermes, OpenClaw, Goose, Devin CLI, Factory Droid, Antigravity) via a **39-policy engine**, distributed on npm. Now building the **daemon** that unifies enforcement across the entire product umbrella.
+
+**AgentEye** — observability for AI agents. Collector-side ingestion of sessions, messages, tool calls, hooks and events into **ClickHouse**, surfaced through a Next.js dashboard. If your agent did it, it's in the trace.
+
+## `$ ls ~/projects`
 
 | | |
 |---|---|
-| **role** | B.Tech CS & AI undergrad @ PSIT, Kanpur |
-| **focus** | full-stack apps · AI agents · RAG systems |
-| **currently** | building deployable portfolio projects |
-| **stack** | python · typescript · react · nextjs · fastapi |
-| **motto** | ship it, break it, fix it, ship it again |
+| **[CAI — Chartered Accountant Intelligence](https://github.com/chhhee10/CAI)** <br/> `python` `langgraph` `fastapi` `groq` | 6-agent tax advisory engine · multi-namespace RAG across 5 semantic stores · **sub-300ms** avg retrieval |
+| **[PullSmith](https://github.com/chhhee10/pullsmith)** <br/> `python` `langchain` `github api` `gemini` | autonomous 7-agent PR review · security scanning, test-gen, self-healing CI · built in **24h** |
+| **[Vaultless](https://github.com/chhhee10/vaultless)** <br/> `rust` `anchor` `solana` `react native` | passwordless auth — **Ed25519 keys rebuilt in-memory** from 64-dim behavioural biometrics · Ghost Wallet duress protocol for when someone's holding a wrench |
 
-### `$ work`
+## `$ trophies`
 
-Building full-stack and AI-powered projects — from multi-agent RAG systems to consumer-facing web apps — with a focus on things that are actually **deployed**, not just demoed.
+```text
+🥇  1st — OpenSwarm Hackathon · Polaris (300+ teams) · SwarmHands, an agent mesh
+🥈  2nd — Anvil Hackathon · Scaler (200+ teams) · PullSmith
+⚔️   300+ LeetCode · 5★ C++ HackerRank
+```
 
-### `$ ls ~/projects`
-
-| Project | Description |
-|---|---|
-| **[CAI — Chartered Accountant Intelligence](#)**<br>`python` `langgraph` `fastapi` `groq` `react` | 6-agent AI tax advisory system · multi-namespace RAG across 5 semantic stores · retry logic + concurrent async retrieval |
-| **[RizzBite](https://rizz-bite.vercel.app)**<br>`nextjs` `typescript` `anthropic-api` | AI-powered recipe platform · built with Feature-Sliced Design (FSD) architecture |
-| **[AtmosSense](#)**<br>`react` `nodejs` | Weather intelligence platform |
-| **[hack.chat clone](#)**<br>`nodejs` `websockets` | Real-time chat app · command-dispatcher architecture |
-
-### `$ cat stack.toml`
+## `$ cat stack.toml`
 
 ```toml
-[languages]   python · javascript · typescript · java · cpp
-[frontend]    react · nextjs · tailwindcss
-[backend]     nodejs · fastapi
-[data]        postgresql · mongodb
-[ml]          pandas · numpy · scikit-learn · tensorflow
+[daily]      typescript · python · rust · node · fastapi · react · nextjs
+[ai]         langgraph · langchain · rag · vector-search · mcp · langsmith
+[data]       clickhouse · postgres · mongodb · firebase
+[infra]      docker · cloudflare · vercel · github-actions · linux · tmux
+[chain]      solana · anchor · ed25519
 ```
 
-### `$ ping tarun`
 
-<p>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/tarun0320"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+## `$ ping chetan`
 
----
+[![linkedin](https://img.shields.io/badge/linkedin-chetan--raghuvanshi-0a0a0a?style=flat-square&logo=linkedin&logoColor=ff2d6f)](https://linkedin.com/in/chetan-raghuvanshi)
+[![portfolio](https://img.shields.io/badge/portfolio-chetan--portfolio.xyz-0a0a0a?style=flat-square&logo=firefox&logoColor=ff2d6f)](https://chetan-portfolio.xyz)
+[![email](https://img.shields.io/badge/email-chetanraghuvanshi85-0a0a0a?style=flat-square&logo=gmail&logoColor=ff2d6f)](mailto:chetanraghuvanshi85@gmail.com)
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarun0320&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun0320&layout=compact&theme=dark&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=tarun0320&theme=dark&hide_border=true)
-
-</div>
-
-```
-tarun@kanpur ~ % exit
+```console
+chetan@blr ~ % exit
 ```
