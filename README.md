@@ -1,6 +1,5 @@
 <div align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=TARUN;full-stack+%C2%B7+AI%2FML+%C2%B7+agentic+systems+%C2%B7+always+shipping)](https://git.io/typing-svg)
-
+  <img src="./terminal-header.svg" alt="Tarun Bhadauria" width="100%"/>
 </div>
 
 ```console
@@ -45,7 +44,7 @@ Building full-stack and AI-powered projects — from multi-agent RAG systems to 
 ```
 
 
-## `$ ping chetan`
+## `$ ping tarun`
 
 [![linkedin](https://img.shields.io/badge/linkedin-tarun--bhadauria-0a0a0a?style=flat-square&logo=linkedin&logoColor=ff2d6f)](https://www.linkedin.com/in/tarun-bhadauria-038b17391/)
 [![leetcode](https://img.shields.io/badge/leetcode-tarun0320-0a0a0a?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/tarun0320)
