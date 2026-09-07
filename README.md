@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/chhhee10/chhhee10/blob/main/header.svg" width="100%" alt="chetan raghuvanshi — agent infra · observability · solana"/>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=TARUN;full-stack+%C2%B7+AI%2FML+%C2%B7+agentic+systems+%C2%B7+always+shipping)](https://git.io/typing-svg)
+
 </div>
 
 ```console
